@@ -1,2 +1,2 @@
-# finquizz
+# leads.idtech
 Created with CodeSandbox
